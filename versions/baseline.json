@@ -1,5 +1,6 @@
 {
     "default": {
+        "boost-pool": { "baseline": "1.80.0", "port-version": 0 },
         "constexprhash": { "baseline": "0.1.0", "port-version": 0 }
     }
 }
